@@ -3,7 +3,7 @@
         "host": "hasanozkanpostgres1.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "HasanOzkan@HasanOzkanPostgres1",
-        "password": "NecmetErdimah32*",
+        "password": "NecmetErdimah",
         "ssl": "require"
     }
 }
